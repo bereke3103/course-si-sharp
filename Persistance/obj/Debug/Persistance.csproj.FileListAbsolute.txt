@@ -1,0 +1,9 @@
+C:\Users\berek\OneDrive\Рабочий стол\c#-test-project\SBeregovoy.SoftWareDevelop\Persistance\bin\Debug\SBeregovoy.SoftDevelop.Persistance.dll
+C:\Users\berek\OneDrive\Рабочий стол\c#-test-project\SBeregovoy.SoftWareDevelop\Persistance\bin\Debug\SBeregovoy.SoftDevelop.Persistance.pdb
+C:\Users\berek\OneDrive\Рабочий стол\c#-test-project\SBeregovoy.SoftWareDevelop\Persistance\bin\Debug\SBeregovoy.SoftDevelop.Domain.dll
+C:\Users\berek\OneDrive\Рабочий стол\c#-test-project\SBeregovoy.SoftWareDevelop\Persistance\bin\Debug\SBeregovoy.SoftDevelop.Domain.pdb
+C:\Users\berek\OneDrive\Рабочий стол\c#-test-project\SBeregovoy.SoftWareDevelop\Persistance\obj\Debug\Persistance.csproj.AssemblyReference.cache
+C:\Users\berek\OneDrive\Рабочий стол\c#-test-project\SBeregovoy.SoftWareDevelop\Persistance\obj\Debug\Persistance.csproj.CoreCompileInputs.cache
+C:\Users\berek\OneDrive\Рабочий стол\c#-test-project\SBeregovoy.SoftWareDevelop\Persistance\obj\Debug\Persistance.csproj.CopyComplete
+C:\Users\berek\OneDrive\Рабочий стол\c#-test-project\SBeregovoy.SoftWareDevelop\Persistance\obj\Debug\SBeregovoy.SoftDevelop.Persistance.dll
+C:\Users\berek\OneDrive\Рабочий стол\c#-test-project\SBeregovoy.SoftWareDevelop\Persistance\obj\Debug\SBeregovoy.SoftDevelop.Persistance.pdb
