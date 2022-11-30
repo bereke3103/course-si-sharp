@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace SBeregovoy.SoftDevelop.Domain
 {
-    public class Person
+    public class Freelancer : Person
     {
+        public Freelancer(string name, List<TimeRecord> timeRecords) : base(name, timeRecords)
+        {
+
+        }
     }
 }
