@@ -10,6 +10,7 @@ namespace SBeregovoy.SoftDevelop.Domain
     {
 
         public decimal MonthBonus => 20000;
+        public decimal TotalPay { get; }
 
         public Manager(string name, List<TimeRecord> timeRecords) : base(name, 200000, timeRecords)
         {
@@ -20,15 +21,17 @@ namespace SBeregovoy.SoftDevelop.Domain
 
             foreach (var timeRecord in timeRecords)
             {
-                if (timeRecord.Hours >= Settings.WorkHourInDay)
+                if (timeRecord.Hours <= Settings.WorkHourInDay)
                 {
                     totalPay += timeRecord.Hours * payPerHour;
-                } else //переработка
+                } 
+                else //переработка
                 {
                     totalPay += Settings.WorkHourInDay * payPerHour + bonusPerDay;
                 }
             }
-            
+
+            TotalPay = totalPay;
         }
     }
 }

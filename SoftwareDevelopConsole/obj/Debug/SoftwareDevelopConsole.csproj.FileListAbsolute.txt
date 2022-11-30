@@ -11,3 +11,16 @@ C:\Users\berek\OneDrive\Рабочий стол\c#-test-project\SBeregovoy.SoftW
 C:\Users\berek\OneDrive\Рабочий стол\c#-test-project\SBeregovoy.SoftWareDevelop\SoftwareDevelopConsole\obj\Debug\SoftwareDevelopConsole.csproj.CopyComplete
 C:\Users\berek\OneDrive\Рабочий стол\c#-test-project\SBeregovoy.SoftWareDevelop\SoftwareDevelopConsole\obj\Debug\SBeregovoy.SoftDevelop.SoftwareDevelopConsole.exe
 C:\Users\berek\OneDrive\Рабочий стол\c#-test-project\SBeregovoy.SoftWareDevelop\SoftwareDevelopConsole\obj\Debug\SBeregovoy.SoftDevelop.SoftwareDevelopConsole.pdb
+C:\Users\Береке\Desktop\course\course-si-sharp\SoftwareDevelopConsole\bin\Debug\SBeregovoy.SoftDevelop.SoftwareDevelopConsole.exe.config
+C:\Users\Береке\Desktop\course\course-si-sharp\SoftwareDevelopConsole\bin\Debug\SBeregovoy.SoftDevelop.SoftwareDevelopConsole.exe
+C:\Users\Береке\Desktop\course\course-si-sharp\SoftwareDevelopConsole\bin\Debug\SBeregovoy.SoftDevelop.SoftwareDevelopConsole.pdb
+C:\Users\Береке\Desktop\course\course-si-sharp\SoftwareDevelopConsole\bin\Debug\SBeregovoy.SoftDevelop.Domain.dll
+C:\Users\Береке\Desktop\course\course-si-sharp\SoftwareDevelopConsole\bin\Debug\SBeregovoy.SoftDevelop.Persistance.dll
+C:\Users\Береке\Desktop\course\course-si-sharp\SoftwareDevelopConsole\bin\Debug\SBeregovoy.SoftDevelop.Domain.pdb
+C:\Users\Береке\Desktop\course\course-si-sharp\SoftwareDevelopConsole\bin\Debug\SBeregovoy.SoftDevelop.Persistance.pdb
+C:\Users\Береке\Desktop\course\course-si-sharp\SoftwareDevelopConsole\obj\Debug\SoftwareDevelopConsole.csproj.AssemblyReference.cache
+C:\Users\Береке\Desktop\course\course-si-sharp\SoftwareDevelopConsole\obj\Debug\SoftwareDevelopConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\Береке\Desktop\course\course-si-sharp\SoftwareDevelopConsole\obj\Debug\SoftwareDevelopConsole.csproj.CoreCompileInputs.cache
+C:\Users\Береке\Desktop\course\course-si-sharp\SoftwareDevelopConsole\obj\Debug\SoftwareDevelopConsole.csproj.CopyComplete
+C:\Users\Береке\Desktop\course\course-si-sharp\SoftwareDevelopConsole\obj\Debug\SBeregovoy.SoftDevelop.SoftwareDevelopConsole.exe
+C:\Users\Береке\Desktop\course\course-si-sharp\SoftwareDevelopConsole\obj\Debug\SBeregovoy.SoftDevelop.SoftwareDevelopConsole.pdb

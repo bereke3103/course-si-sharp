@@ -7,3 +7,12 @@ C:\Users\berek\OneDrive\Рабочий стол\c#-test-project\SBeregovoy.SoftW
 C:\Users\berek\OneDrive\Рабочий стол\c#-test-project\SBeregovoy.SoftWareDevelop\Persistance\obj\Debug\Persistance.csproj.CopyComplete
 C:\Users\berek\OneDrive\Рабочий стол\c#-test-project\SBeregovoy.SoftWareDevelop\Persistance\obj\Debug\SBeregovoy.SoftDevelop.Persistance.dll
 C:\Users\berek\OneDrive\Рабочий стол\c#-test-project\SBeregovoy.SoftWareDevelop\Persistance\obj\Debug\SBeregovoy.SoftDevelop.Persistance.pdb
+C:\Users\Береке\Desktop\course\course-si-sharp\Persistance\bin\Debug\SBeregovoy.SoftDevelop.Persistance.dll
+C:\Users\Береке\Desktop\course\course-si-sharp\Persistance\bin\Debug\SBeregovoy.SoftDevelop.Persistance.pdb
+C:\Users\Береке\Desktop\course\course-si-sharp\Persistance\bin\Debug\SBeregovoy.SoftDevelop.Domain.dll
+C:\Users\Береке\Desktop\course\course-si-sharp\Persistance\bin\Debug\SBeregovoy.SoftDevelop.Domain.pdb
+C:\Users\Береке\Desktop\course\course-si-sharp\Persistance\obj\Debug\Persistance.csproj.AssemblyReference.cache
+C:\Users\Береке\Desktop\course\course-si-sharp\Persistance\obj\Debug\Persistance.csproj.CoreCompileInputs.cache
+C:\Users\Береке\Desktop\course\course-si-sharp\Persistance\obj\Debug\Persistance.csproj.CopyComplete
+C:\Users\Береке\Desktop\course\course-si-sharp\Persistance\obj\Debug\SBeregovoy.SoftDevelop.Persistance.dll
+C:\Users\Береке\Desktop\course\course-si-sharp\Persistance\obj\Debug\SBeregovoy.SoftDevelop.Persistance.pdb

@@ -8,3 +8,5 @@ C:\Users\Береке\Desktop\course\course-si-sharp\Domain\obj\Debug\Domain.csp
 C:\Users\Береке\Desktop\course\course-si-sharp\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
 C:\Users\Береке\Desktop\course\course-si-sharp\Domain\obj\Debug\SBeregovoy.SoftDevelop.Domain.dll
 C:\Users\Береке\Desktop\course\course-si-sharp\Domain\obj\Debug\SBeregovoy.SoftDevelop.Domain.pdb
+C:\Users\Береке\Desktop\course\course-si-sharp\Domain\bin\Debug\SBeregovoy.SoftDevelop.Domain.dll
+C:\Users\Береке\Desktop\course\course-si-sharp\Domain\bin\Debug\SBeregovoy.SoftDevelop.Domain.pdb
