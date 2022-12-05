@@ -204,3 +204,4 @@ C:\Users\Береке\Desktop\course\course-si-sharp\SoftwareDevelopTests\obj\De
 C:\Users\Береке\Desktop\course\course-si-sharp\SoftwareDevelopTests\obj\Debug\net6.0\SBeregovoy.SoftDevelop.SoftwareDevelopTests.pdb
 C:\Users\Береке\Desktop\course\course-si-sharp\SoftwareDevelopTests\obj\Debug\net6.0\SoftwareDevelopTests.genruntimeconfig.cache
 C:\Users\Береке\Desktop\course\course-si-sharp\SoftwareDevelopTests\obj\Debug\net6.0\ref\SBeregovoy.SoftDevelop.SoftwareDevelopTests.dll
+C:\Users\Береке\Desktop\course\course-si-sharp\SoftwareDevelopTests\bin\Debug\net6.0\SBeregovoy.SoftDevelop.Persistance.dll.config

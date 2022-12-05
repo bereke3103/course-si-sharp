@@ -24,3 +24,4 @@ C:\Users\Береке\Desktop\course\course-si-sharp\SoftwareDevelopConsole\obj\
 C:\Users\Береке\Desktop\course\course-si-sharp\SoftwareDevelopConsole\obj\Debug\SoftwareDevelopConsole.csproj.CopyComplete
 C:\Users\Береке\Desktop\course\course-si-sharp\SoftwareDevelopConsole\obj\Debug\SBeregovoy.SoftDevelop.SoftwareDevelopConsole.exe
 C:\Users\Береке\Desktop\course\course-si-sharp\SoftwareDevelopConsole\obj\Debug\SBeregovoy.SoftDevelop.SoftwareDevelopConsole.pdb
+C:\Users\Береке\Desktop\course\course-si-sharp\SoftwareDevelopConsole\bin\Debug\SBeregovoy.SoftDevelop.Persistance.dll.config

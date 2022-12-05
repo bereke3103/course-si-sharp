@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Domain",
+    "\\Domain\\Persons",
+    "\\Persistance"
   ],
-  "SelectedNode": "\\SBeregovoy.SoftWareDevelop.sln",
+  "SelectedNode": "\\Persistance\\MemoryRepository.cs",
   "PreviewInSolutionExplorer": false
 }

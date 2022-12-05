@@ -48,6 +48,10 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="Data\Manager.csv" />
+    <None Include="Data\Freelancer.csv" />
+    <None Include="Data\User.csv" />
+    <None Include="Data\Emploee.csv" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Domain\Domain.csproj">
